@@ -1,0 +1,1 @@
+A web app to generate random password. It is a frontend project. This web app done using HTML, CSS and JAVASCRIPT.
